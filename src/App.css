@@ -55,8 +55,7 @@ nav {
 
 .home-bannerImage-container {
   position: relative;
-  min-height: 100vh;
-  background-size: cover;
+  min-height: 300px;
 }
 .home-text-section {
   position: absolute;
@@ -176,6 +175,7 @@ nav {
   }
   .home-bannerImage-container {
     max-width: 450px;
+    background-size: cover;
   }
 }
 
