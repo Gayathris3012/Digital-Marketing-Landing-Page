@@ -33,13 +33,14 @@ nav {
   padding: 1rem 2rem;
 }
 .nav-logo-container img {
-  max-width: 50px;
+  max-width: 150px;
+  margin-left: 4rem;
 }
 .navbar-links-container {
   display: flex;
 }
 .navbar-links-container a {
-  margin-right: 2rem;
+  margin-right: 4rem;
   text-decoration: none;
   color: white;
   font-size: 1.1rem;
@@ -181,7 +182,7 @@ nav {
 
 @media (max-width: 600px) {
   .nav-logo-container img {
-    max-width: 100%;
+    max-width: 300%;
   }
   .navbar-links-container {
     display: none;
@@ -197,4 +198,14 @@ nav {
   .about-section-text-container {
     margin-top: 2rem;
   }
+}
+.home-container-relative {
+  position: relative;
+}
+.banner-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: -1;
 }
