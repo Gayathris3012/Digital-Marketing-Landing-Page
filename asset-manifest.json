@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Digital-Marketing-Landing-Page/static/css/main.546dd4da.css",
-    "main.js": "/Digital-Marketing-Landing-Page/static/js/main.c0038640.js",
+    "main.css": "/Digital-Marketing-Landing-Page/static/css/main.e39dce9f.css",
+    "main.js": "/Digital-Marketing-Landing-Page/static/js/main.4f4a9001.js",
     "static/media/about.png": "/Digital-Marketing-Landing-Page/static/media/about.77dacb50ae3fa6dd88da.png",
     "static/media/earth.png": "/Digital-Marketing-Landing-Page/static/media/earth.8f93bc2492ae06c9282c.png",
     "static/media/services.png": "/Digital-Marketing-Landing-Page/static/media/services.6ca8a8250ac19ebb6de2.png",
     "static/media/Trusted.png": "/Digital-Marketing-Landing-Page/static/media/Trusted.09981dceeb16faf33c62.png",
     "static/media/Rectangle.png": "/Digital-Marketing-Landing-Page/static/media/Rectangle.5c75248defd534dbca75.png",
     "index.html": "/Digital-Marketing-Landing-Page/index.html",
-    "main.546dd4da.css.map": "/Digital-Marketing-Landing-Page/static/css/main.546dd4da.css.map",
-    "main.c0038640.js.map": "/Digital-Marketing-Landing-Page/static/js/main.c0038640.js.map"
+    "main.e39dce9f.css.map": "/Digital-Marketing-Landing-Page/static/css/main.e39dce9f.css.map",
+    "main.4f4a9001.js.map": "/Digital-Marketing-Landing-Page/static/js/main.4f4a9001.js.map"
   },
   "entrypoints": [
-    "static/css/main.546dd4da.css",
-    "static/js/main.c0038640.js"
+    "static/css/main.e39dce9f.css",
+    "static/js/main.4f4a9001.js"
   ]
 }
